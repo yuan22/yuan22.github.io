@@ -2,15 +2,15 @@
 layout: blog
 istop: true
 tech: true
-title: "Git忽略规则及.gitignore规则正确姿势"
+title: "魅族lucky08与魅族公模机最详细解Bootloader小白保姆教程"
 background-image: http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/Octocat.jpg
-date: "2018-05-23 14:20:30"
+date: "2025-07-03 14:20:30"
 category: code
 tags:
 - github
 - git
 - gitignore
-- Git忽略规则
+- 解锁
 ---
 
 # 目的
